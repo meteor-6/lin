@@ -1,4 +1,4 @@
-# MARK_CACHETEST # 订阅价格配置：按服务分段，段头格式 [服务id]
+# 订阅价格配置：按服务分段，段头格式 [服务id]
 # 每行格式：货币代码 Go价 Plus价 Pro价（填 0 或 -1 表示该档未提供）
 # 服务id: tele=Telegram, gpt=GPT, claude=Claude, grok=Grok
 
