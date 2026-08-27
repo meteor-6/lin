@@ -1,4 +1,4 @@
-# 订阅价格配置：按服务分段，段头格式 [服务id]
+# MARK_CACHETEST # 订阅价格配置：按服务分段，段头格式 [服务id]
 # 每行格式：货币代码 Go价 Plus价 Pro价（填 0 或 -1 表示该档未提供）
 # 服务id: tele=Telegram, gpt=GPT, claude=Claude, grok=Grok
 
@@ -13,7 +13,7 @@ TWD 138 276 552
 HKD 31.19 62.39 124.79
 
 [gpt]
-USD 20 19.98 100
+USD 8 19.99 100
 GBP 6.99 19.99 88.9
 SGD 10.98 29.98 137.98
 JPY 1400 3000 16800
